@@ -1,6 +1,9 @@
 # GoogleDynDNSAPI
 Updates your google dynamic DNS IP every 5 minutes
 
+## Download
+Latest build located in Builds folder
+
 ## How to use
 On run, if a configuration file is not detected, you will be prompted for credentials.
 
